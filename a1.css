@@ -1,0 +1,16 @@
+.firstDiv {
+}
+.firstDiv a:hover {
+  text-decoration: underline;
+}
+
+.lastDiv {
+}
+.lastDiv a:hover {
+  text-decoration: underline;
+}
+
+.text {
+  color: #555;
+  font-family: sans-serif;
+}
